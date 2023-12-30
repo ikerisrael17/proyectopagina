@@ -1,0 +1,36 @@
+body{
+    background-color:aliceblue;
+}
+.partidos{
+    width: 490px;
+    position:relative;
+    left: 50%; /* posicion izquierda */
+    bottom:600px;/* posicion arriba */   
+}
+.listado{
+    position: relative;
+    left: 13%;
+    font-size: 19px;
+}
+
+.lista{
+
+margin-top: 100px;
+font-family:'Glass Antiqua', cursive;
+font-weight: 70px;
+}
+.informacion{
+    position:relative;
+    left:5%;
+}
+.copa{
+    width: 600px;
+    position:relative;
+    left: 10%; /* posicion izquierda */ 
+   margin-top: 50px;
+}
+.primero{
+    margin-top: 100px;
+    font-family:'Glass Antiqua', cursive;
+    font-weight: 70px;
+}
